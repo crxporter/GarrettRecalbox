@@ -5,6 +5,8 @@ Recalbox Christmas 2019
 
 ### Configuration website
 
+**THE PI HAS TO BE RUNNING ON YOUR NETWORK TO CLICK THIS LINK**
+
 http://recalbox.local
 
 Click here to get to the web interface.
