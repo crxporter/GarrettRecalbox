@@ -13,7 +13,9 @@ Click here to get to the web interface.
 
 ### Buttons
 
-The power switch works as expected. The reset button will reset the current game with one press or return to the main menu with two presses. 
+The power switch works as expected.
+
+The reset button will reset the current game with one press or return to the main menu with two presses. 
 
 ### Kodi
 
