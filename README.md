@@ -11,6 +11,10 @@ http://recalbox.local
 
 Click here to get to the web interface.
 
+### Buttons
+
+The power switch works as expected. The reset button will reset the current game with one press or return to the main menu with two presses. 
+
 ### Kodi
 
 Plug in a USB hard drive and start Kodi to watch TV shows (if I sent you Big Bang, this is the best way to watch it)
